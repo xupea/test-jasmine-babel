@@ -1,14 +1,15 @@
-Test project which use Babel.js as ES6 compiler to write unit tests
+Integrate grunt jasmine babel es6 test.
+
+With grunt-run, jasmine and babel6 to test es6 unit tests.
 
 ## Setup
 
 ```
-sudo npm install jasmine -g
 npm install
 ```
 
 ## Test
 
 ```
-npm test
+grunt
 ```
